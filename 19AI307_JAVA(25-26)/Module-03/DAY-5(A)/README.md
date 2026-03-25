@@ -1,4 +1,4 @@
-# Ex.No:3(E) ENUM
+# Ex.No:3(E) INNER CLASS
 
 ## QUESTION:
 Write a Java program to create an enum Season with values WINTER, SPRING, SUMMER, and FALL. Use a switch statement to display a custom message based on the current season.
